@@ -48,7 +48,7 @@ def simple_config():
 def my_config():
     """Write your own logging configuration."""
     FORMAT = '%(asctime)s %(name)s %(levelname)s: %(message)s'
-    logging.basicConfig(format=FORMAT, level=logging.WARN, filename="logging_test.txt", filemode='w')
+    logging.basicConfig(format=FORMAT, level=logging.WARN, filename="logging_demo.txt", filemode='w')
 
 
 if __name__ == "__main__":
