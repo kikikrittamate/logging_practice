@@ -1,0 +1,10 @@
+2021-11-05 21:53:23,239 root WARNING: User : person1 failed to log in.
+2021-11-05 21:53:23,239 root Level 35: This is Level message.
+2021-11-05 21:53:23,239 root ERROR: This is Error message.
+2021-11-05 21:53:23,239 root CRITICAL: This is Critical message.
+2021-11-05 21:53:23,239 modu DEBUG: This is debugging.
+2021-11-05 21:53:23,239 modu INFO: User : person1 just logged in.
+2021-11-05 21:53:23,239 modu WARNING: User : person1 failed to log in.
+2021-11-05 21:53:23,239 modu Level 35: This is Level message.
+2021-11-05 21:53:23,239 modu ERROR: This is Error message.
+2021-11-05 21:53:23,239 modu CRITICAL: This is Critical message.
